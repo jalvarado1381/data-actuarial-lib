@@ -20,6 +20,7 @@ class interes : public Financiera{
 			  renta,
 			  denominador;
 		bool nominal;
+		char tipo;
 			 
 	//Captura de Datos
 		void capturaFechas( interes & );
