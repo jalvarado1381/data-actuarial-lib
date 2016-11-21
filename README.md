@@ -1,3 +1,2 @@
 # data-actuarial-lib
-Set of libraries oriented to the Actuarial and Data Sciences
-Just starting.
+Set of C++ libraries oriented to Finance, Actuarial and Data Sciences.
